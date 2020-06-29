@@ -25269,7 +25269,7 @@ D.KU.prototype={
 $0:function(){var t=0,s=P.W(u.P)
 var $async$$0=P.R(function(a,b){if(a===1)return P.T(b,s)
 while(true)switch(t){case 0:t=2
-return P.a2(T.iC(J.c2(P.im("https://bit.ly/2BZl8D7",0,null))),$async$$0)
+return P.a2(T.iC(J.c2(P.im("https://docs.google.com/document/d/1J9yigOS1qymjM7fF0wTxpzlrIlM0DvpMQFK16JoEVhc/edit#",0,null))),$async$$0)
 case 2:return P.U(null,s)}})
 return P.V($async$$0,s)},
 $S:6}
