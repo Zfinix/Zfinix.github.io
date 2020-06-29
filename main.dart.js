@@ -25129,7 +25129,7 @@ $S:0}
 T.lp.prototype={
 G:function(a){var t=null,s=D.iD($.hs(),u.G),r=s.a,q=L.fw(r?C.nU:C.nV,t,t)
 r=r?C.j:C.k
-return T.eW(H.b([new R.cL(1,t),new Y.fF(new T.L1(),"PORTFOLIO",t),C.ms,new Y.fF(new T.L2(),"CONTACT ME",t),C.ms,new Y.fF(new T.L3(),"RESUME",t),C.ms,B.oS(r,q,14,new T.L4(s)),new R.cL(1,t)],u.E),C.T,C.bN,C.at)}}
+return T.eW(H.b([new R.cL(1,t),new Y.fF(new T.L1(),"PORTFOLIO",t),C.mr,new Y.fF(new T.L2(),"CONTACT ME",t),C.mr,new Y.fF(new T.L3(),"RESUME",t),C.mr,B.oS(r,q,14,new T.L4(s)),new R.cL(1,t)],u.E),C.T,C.bN,C.at)}}
 T.L1.prototype={
 $0:function(){},
 $S:0}
@@ -25145,7 +25145,7 @@ T.L3.prototype={
 $0:function(){var t=0,s=P.W(u.P)
 var $async$$0=P.R(function(a,b){if(a===1)return P.T(b,s)
 while(true)switch(t){case 0:t=2
-return P.a2(T.iC(J.c2(P.im("https://bit.ly/2BZl8D7",0,null))),$async$$0)
+return P.a2(T.iC(J.c2(P.im("https://docs.google.com/document/d/1J9yigOS1qymjM7fF0wTxpzlrIlM0DvpMQFK16JoEVhc/edit#",0,null))),$async$$0)
 case 2:return P.U(null,s)}})
 return P.V($async$$0,s)},
 $S:6}
@@ -25185,7 +25185,7 @@ t=L.fw(C.o_,P.aE(n,(16711680&t)>>>16,(65280&t)>>>8,(255&t)>>>0),20)
 s=(p?C.j:C.k).a
 s=L.fw(C.u6,P.aE(n,(16711680&s)>>>16,(65280&s)>>>8,(255&s)>>>0),20)
 r=(p?C.j:C.k).a
-return T.eW(H.b([new G.jP("https://github.com/zfinix",o,q),C.mr,new G.jP("https://dribbble.com/chiziaruhoma",t,q),C.mr,new G.jP("https://twitter.com/zfinix",s,q),C.mr,new G.jP("https://linkedin.com/in/chiziaruhoma",L.fw(C.tT,P.aE(n,(16711680&r)>>>16,(65280&r)>>>8,(255&r)>>>0),14),q)],u.E),C.T,C.a5,C.at)}}
+return T.eW(H.b([new G.jP("https://github.com/zfinix",o,q),C.ms,new G.jP("https://dribbble.com/chiziaruhoma",t,q),C.ms,new G.jP("https://twitter.com/zfinix",s,q),C.ms,new G.jP("https://linkedin.com/in/chiziaruhoma",L.fw(C.tT,P.aE(n,(16711680&r)>>>16,(65280&r)>>>8,(255&r)>>>0),14),q)],u.E),C.T,C.a5,C.at)}}
 G.jP.prototype={
 G:function(a){return V.qK(this.d,new G.Pq(this),!1)}}
 G.Pq.prototype={
@@ -44866,9 +44866,9 @@ C.AK=new G.Ak("VerticalDirection.up")
 C.mo=new G.Ak("VerticalDirection.down")
 C.mp=new X.mk(0,0)
 C.AL=new X.mk(-2,-2)
+C.mr=new Y.f3(10,null)
 C.hA=new Y.f3(20,null)
-C.mr=new Y.f3(25,null)
-C.ms=new Y.f3(30,null)
+C.ms=new Y.f3(25,null)
 C.AM=new Y.dP(10,null)
 C.c7=new Y.dP(20,null)
 C.c8=new Y.dP(30,null)
