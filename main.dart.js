@@ -31159,7 +31159,7 @@ T.ON.prototype={
 $0:function(){var s=0,r=P.a1(t.P)
 var $async$$0=P.X(function(a,b){if(a===1)return P.Z(b,r)
 while(true)switch(s){case 0:s=2
-return P.a4(T.eN(P.cZ("https://twitter.com/zfinix1",0,null).h(0)),$async$$0)
+return P.a4(T.eN(P.cZ("https://twitter.com/chiziaruhoma",0,null).h(0)),$async$$0)
 case 2:return P.a_(null,r)}})
 return P.a0($async$$0,r)},
 $C:"$0",
@@ -31176,7 +31176,7 @@ T.Qs.prototype={
 $0:function(){var s=0,r=P.a1(t.P)
 var $async$$0=P.X(function(a,b){if(a===1)return P.Z(b,r)
 while(true)switch(s){case 0:s=2
-return P.a4(T.eN(P.cZ("https://twitter.com/zfinix14",0,null).h(0)),$async$$0)
+return P.a4(T.eN(P.cZ("https://twitter.com/chiziaruhoma4",0,null).h(0)),$async$$0)
 case 2:return P.a_(null,r)}})
 return P.a0($async$$0,r)},
 $S:12}
@@ -31221,7 +31221,7 @@ s=L.f5(C.po,P.as(m,s>>>16&255,s>>>8&255,s&255),20)
 r=(o?C.i:C.k).a
 r=L.f5(C.vP,P.as(m,r>>>16&255,r>>>8&255,r&255),20)
 q=(o?C.i:C.k).a
-return T.dk(H.c([new G.lh("https://github.com/zfinix",n,p),C.o1,new G.lh("https://dribbble.com/chiziaruhoma",s,p),C.o1,new G.lh("https://twitter.com/zfinix1",r,p),C.o1,new G.lh("https://linkedin.com/in/chiziaruhoma",L.f5(C.vC,P.as(m,q>>>16&255,q>>>8&255,q&255),14),p)],t.Z),C.B,C.v,C.a4)}}
+return T.dk(H.c([new G.lh("https://github.com/zfinix",n,p),C.o1,new G.lh("https://dribbble.com/chiziaruhoma",s,p),C.o1,new G.lh("https://twitter.com/chiziaruhoma",r,p),C.o1,new G.lh("https://linkedin.com/in/chiziaruhoma",L.f5(C.vC,P.as(m,q>>>16&255,q>>>8&255,q&255),14),p)],t.Z),C.B,C.v,C.a4)}}
 G.lh.prototype={
 G:function(a,b){return V.le(this.d,new G.X6(this),!1)}}
 G.X6.prototype={
@@ -31427,7 +31427,7 @@ D.Qi.prototype={
 $0:function(){var s=0,r=P.a1(t.P)
 var $async$$0=P.X(function(a,b){if(a===1)return P.Z(b,r)
 while(true)switch(s){case 0:s=2
-return P.a4(T.eN(P.cZ("https://twitter.com/zfinix1",0,null).h(0)),$async$$0)
+return P.a4(T.eN(P.cZ("https://twitter.com/chiziaruhoma",0,null).h(0)),$async$$0)
 case 2:return P.a_(null,r)}})
 return P.a0($async$$0,r)},
 $S:12}
